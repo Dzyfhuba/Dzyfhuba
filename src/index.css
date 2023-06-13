@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 .dark {
-  @apply bg-dark-base text-white 
+  @apply bg-dark-base text-white
+}
+
+.dark * {
+  @apply text-white
 }
