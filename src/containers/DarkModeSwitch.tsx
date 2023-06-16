@@ -1,6 +1,6 @@
-import { MdDarkMode, MdLightMode } from 'react-icons/md'
 import Button from '@/components/Button'
-import { useCallback, useEffect, useState } from 'react'
+import { useState } from 'react'
+import { MdDarkMode, MdLightMode } from 'react-icons/md'
 
 const DarkModeSwitch = () => {
   const [_, update] = useState({})

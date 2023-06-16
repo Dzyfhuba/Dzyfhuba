@@ -1,10 +1,11 @@
-import Navbar from "../containers/Navbar"
+import Main from "@/layouts/Main"
+import Hero from "@/sections/Hero"
 
 const Dashboard = () => {
   return (
-    <>
-      <Navbar />
-    </>
+    <Main>
+      <Hero />
+    </Main>
   )
 }
 
