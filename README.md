@@ -8,3 +8,4 @@ Experienced software developer with a focus on backend development using Node.js
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hafidz-ubaidillah-853b17130/)!
 
+![Hafidz Ubaidillah's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dzyfhuba&theme=dark&exclude=HTML,CSS)
