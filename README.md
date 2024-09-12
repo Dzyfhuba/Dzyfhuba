@@ -20,6 +20,10 @@ Visit my portfolio website too [hafidzubaidillah.com](https://hafidzubaidillah.c
  </div>
 
  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dzyfhuba&theme=github" />
+ </div>
+
+ <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzyfhuba&layout=compact&theme=dark&count_private=true">
  </div>
 
