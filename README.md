@@ -1,6 +1,6 @@
 ## Hafidz Ubaidillah
 
-- Backend: Adonis.js, Laravel
+- Backend: Golang, Laravel
 - Frontend: Next.js, Flutter
 
 Experienced software developer with a focus on backend development using Node.js and Laravel, as well as frontend development with React.js. Actively expanding knowledge in Golang. Passionate about creating innovative software solutions.
